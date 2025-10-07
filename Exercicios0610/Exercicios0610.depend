@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759794586 source:c:\users\marrie\desktop\aulas\programacaoestruturada\exercicios0610\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
